@@ -1,3 +1,6 @@
+
+//REDO THIS BUT FOR THE 
+//ESP32 MCU 2.8 Inch Smart Display for Arduino LVGL WIFI Bluetooth Touch 240*320 Screen LCD TFT Module
 #include <WiFi.h>
 #include <HTTPClient.h>
 #include <ArduinoJson.h>
